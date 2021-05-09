@@ -71,12 +71,20 @@ python social_distance_detector.py --input pedestrians.mp4
 
 Social Benefits:
 
-●	Control the spread of contagious diseases like covid19.
+
+●	Control the spread of contagious diseases like covid19. 
+
 ●	Ability to see which area gains the most traction .
+
 ●	Can be used in offices , schools , factories , etc. to monitor the working environment.
+
 
 Conclusion
 
+
 ▪	This system can be used in CCTV for surveillance of people during pandemics. 
+
 ▪	Mass screening is possible and hence can be used in crowded places .
+
 ▪	By monitoring the distance, maintaining social distancing in the right way will enable us to curb the virus.
+
